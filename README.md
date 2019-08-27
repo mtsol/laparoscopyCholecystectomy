@@ -5,6 +5,6 @@ Laparoscopy is minimally invasive operation (MIO). It is performed at abdominal 
 
 Keywords: HTC Vive, Virtual Reality training, Surgical training, Surgical simulation, Laparoscopic Cholecystectomy
 
-Send your contributions to bitcoin address:
-bc1qe83jdqkv35xsz7ce836en0ne22rerquxvkj7ry
+#Send your contributions to bitcoin address:
+#bc1qe83jdqkv35xsz7ce836en0ne22rerquxvkj7ry
 
